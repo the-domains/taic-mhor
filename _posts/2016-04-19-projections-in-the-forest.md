@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T23:28:38.414Z'
+datePublished: '2016-05-16T23:28:44.598Z'
 sourcePath: _posts/2016-04-19-projections-in-the-forest.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/115082758'
@@ -10,7 +10,7 @@ author:
   - name: Accommodation
     url: ''
     avatar: {}
-dateModified: '2016-05-16T23:28:38.333Z'
+dateModified: '2016-05-16T23:28:43.533Z'
 title: Projections in the Forest
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115082758'
@@ -46,7 +46,7 @@ publisher:
   domain: vimeo.com
 description: We have several rooms avaiable for short or long term rent. Please see our AirBnB listings. Please contact us for special rates for Conferences and workshops.
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: VideoObject
 
