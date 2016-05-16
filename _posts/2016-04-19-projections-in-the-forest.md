@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T21:27:38.017Z'
+datePublished: '2016-05-16T23:28:37.925Z'
 sourcePath: _posts/2016-04-19-projections-in-the-forest.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/115082758'
@@ -7,10 +7,10 @@ hasPage: false
 keywords: []
 related: []
 author:
-  - name: 3hund
-    url: 'http://vimeo.com/3hund'
+  - name: Accommodation
+    url: ''
     avatar: {}
-dateModified: '2016-05-16T21:27:36.618Z'
+dateModified: '2016-05-16T23:28:37.829Z'
 title: Projections in the Forest
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115082758'
@@ -44,7 +44,7 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: 'Behind the scenes: http://vimeo.com/3hund/behindthescenes The projection mapping "bioluminescent forest" is made by artists Friedrich van Schoor and Tarek Mawad. The artists spent six weeks in the forest fascinated by the silence and natural occurrences in nature, especially the phenomenon "bioluminescence".'
+description: We have several rooms avaiable for short or long term rent. Please see our AirBnB listings. Please contact us for special rates for Conferences and workshops.
 inNav: false
 starred: false
 _context: 'http://schema.org'
