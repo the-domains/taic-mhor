@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T23:26:47.809Z'
+datePublished: '2016-05-16T23:28:37.572Z'
 sourcePath: _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
 isBasedOnUrl: 'https://designschool.canva.com/blog/picture-quotes/'
@@ -17,7 +17,7 @@ keywords:
   - text
 related: []
 author: []
-dateModified: '2016-05-16T22:35:23.011Z'
+dateModified: '2016-05-16T23:28:37.494Z'
 title: Tango Lessons
 app_links: []
 publisher:
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8424258c57e49e23b68199e2e806598a1edf6e.png" /><h1>Tango Lessons</h1><p>Michael is happy to help anyone out with some one-on-one floor time on Thursday nights. $5</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1bbedb3-c56f-4f96-ad4b-4f5425f1a96f.jpg" /><h1>Tango Lessons</h1><p>Michael is happy to help anyone out with some one-on-one floor time on Thursday nights. $5</p></article>
