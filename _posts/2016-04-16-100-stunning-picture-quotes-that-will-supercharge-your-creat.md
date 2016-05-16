@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T23:28:37.572Z'
+datePublished: '2016-05-16T23:28:38.088Z'
 sourcePath: _posts/2016-04-16-100-stunning-picture-quotes-that-will-supercharge-your-creat.md
 inFeed: true
 isBasedOnUrl: 'https://designschool.canva.com/blog/picture-quotes/'
@@ -17,7 +17,7 @@ keywords:
   - text
 related: []
 author: []
-dateModified: '2016-05-16T23:28:37.494Z'
+dateModified: '2016-05-16T23:28:38.022Z'
 title: Tango Lessons
 app_links: []
 publisher:
