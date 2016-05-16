@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T21:27:37.940Z'
+datePublished: '2016-05-16T23:27:06.029Z'
 sourcePath: _posts/2016-04-15-mighty-audios-portable-player.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/mighty-kickstarter-portable-media-player-spotify-streaming'
@@ -17,15 +17,15 @@ keywords:
   - downloading
 related: []
 author: []
-dateModified: '2016-05-16T21:27:35.256Z'
-title: "Mighty Audio's Portable Player"
+dateModified: '2016-05-16T22:22:55.821Z'
+title: Mhor Milonga
 app_links: []
 publisher:
   url: 'http://www.coolhunting.com'
   name: Cool Hunting
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
-description: "There's now a tech solution for those who are tired of having their phone tag along on fitness activities but don't want to give up their perfectly tailored Spotify playlists. Allowing runners, bikers and others to detach from the physical (and mental) weight of smartphones is Mighty Audio, which launches on Kickstarter today."
+description: 'Mhor Milonga Tango Dance Friday 20th May 7.30pm - midnight $10 entry Includes supper Lets all get together to catch up and perhaps even do some dancing! Un abrazo tanguero Sarah and Michael info@taicmhor.org.nz 021976666'
 inLanguage: en
 inNav: false
 starred: false
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Mighty Audio's Portable Player</h1><p>There's now a tech solution for those who are tired of having their phone tag along on fitness activities but don't want to give up their perfectly tailored Spotify playlists. Allowing runners, bikers and others to detach from the physical (and mental) weight of smartphones is Mighty Audio, which launches on Kickstarter today.</p><img src="http://assets.coolhunting.com/coolhunting/2016/02/23/large_mighty-spotify-thumb.jpg" /></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfd46583-5d36-4792-80a8-9e3f49f8e22a.jpg" /><h1>Mhor Milonga</h1><p>Mhor Milonga Tango Dance Friday 20th May 7.30pm - midnight $10 entry Includes supper Lets all get together to catch up and perhaps even do some dancing! Un abrazo tanguero Sarah and Michael info@taicmhor.org.nz 021976666</p></article>
