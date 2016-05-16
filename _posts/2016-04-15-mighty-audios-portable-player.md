@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T23:28:38.459Z'
+datePublished: '2016-05-16T23:28:44.677Z'
 sourcePath: _posts/2016-04-15-mighty-audios-portable-player.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/mighty-kickstarter-portable-media-player-spotify-streaming'
@@ -17,7 +17,7 @@ keywords:
   - downloading
 related: []
 author: []
-dateModified: '2016-05-16T23:28:38.371Z'
+dateModified: '2016-05-16T23:28:42.788Z'
 title: Mhor Milonga
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: 'Mhor Milonga Tango Dance Friday 20th May 7.30pm - midnight $10 entry Includes supper Lets all get together to catch up and perhaps even do some dancing! Un abrazo tanguero Sarah and Michael info@taicmhor.org.nz 021976666'
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
