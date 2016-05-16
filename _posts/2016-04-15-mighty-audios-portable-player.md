@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-16T23:28:38.158Z'
+datePublished: '2016-05-16T23:28:38.459Z'
 sourcePath: _posts/2016-04-15-mighty-audios-portable-player.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/mighty-kickstarter-portable-media-player-spotify-streaming'
@@ -17,7 +17,7 @@ keywords:
   - downloading
 related: []
 author: []
-dateModified: '2016-05-16T23:28:38.048Z'
+dateModified: '2016-05-16T23:28:38.371Z'
 title: Mhor Milonga
 app_links: []
 publisher:
