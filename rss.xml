@@ -4,8 +4,15 @@
         <description><![CDATA[Taic Mhor]]></description>
         <link>https://thegrid.ai/taic-mhor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 20:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 20:52:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taic-mhor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tango Lessons]]></title>
+            <description><![CDATA[<article><h1>Tango Lessons</h1><p>Michael is happy to help anyone out with some one-on-one floor time on Thursday nights. $5</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8589e148d8b8bf2eaf7f57e79c6363ee934a59cc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/taic-mhor/tango-lessons/index.html</link>
+            <guid isPermaLink="false">7c9919f9-dfd6-4aad-a2eb-09ef5f6f59d6</guid>
+            <pubDate>Wed, 17 Aug 2016 20:52:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mhor Milonga]]></title>
             <description><![CDATA[<article><h1>Mhor Milonga</h1><p>Mhor Milonga
@@ -24,13 +31,6 @@ info@taicmhor.org.nz
             <link>https://thegrid.ai/taic-mhor/mhor-milonga/index.html</link>
             <guid isPermaLink="false">a33d967d-1dd4-4a14-80f3-3a322164980b</guid>
             <pubDate>Wed, 17 Aug 2016 20:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tango Lessons]]></title>
-            <description><![CDATA[<article><h1>Tango Lessons</h1><p>Michael is happy to help anyone out with some one-on-one floor time on Thursday nights. $5</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8589e148d8b8bf2eaf7f57e79c6363ee934a59cc.jpg"></article>]]></description>
-            <link>https://designschool.canva.com/blog/picture-quotes/</link>
-            <guid isPermaLink="false">7c9919f9-dfd6-4aad-a2eb-09ef5f6f59d6</guid>
-            <pubDate>Mon, 16 May 2016 23:28:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
