@@ -12,3 +12,7 @@ color:
     - '#046380'
     - '#002F2F'
 name: Taic Mhor
+navigation:
+  - name: Taic Mhor
+    id: dd0b2cd7-f7b9-43a8-b01d-c4066714c8c5
+    type: content
