@@ -22,3 +22,6 @@ navigation:
   - name: Accommodation
     id: a8899899-dbf3-4e44-a664-cc8bb1635d23
     type: content
+  - name: Tango Lessons
+    id: 7c9919f9-dfd6-4aad-a2eb-09ef5f6f59d6
+    type: content
