@@ -19,3 +19,6 @@ navigation:
   - name: Mhor Milonga
     id: a33d967d-1dd4-4a14-80f3-3a322164980b
     type: content
+  - name: Accommodation
+    id: a8899899-dbf3-4e44-a664-cc8bb1635d23
+    type: content
